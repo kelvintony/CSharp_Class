@@ -1,0 +1,6 @@
+C:\Users\HP PC\documents\visual studio 2015\Projects\CSharp_Class\MyConsoleApplication\bin\Debug\MyConsoleApplication.exe.config
+C:\Users\HP PC\documents\visual studio 2015\Projects\CSharp_Class\MyConsoleApplication\bin\Debug\MyConsoleApplication.exe
+C:\Users\HP PC\documents\visual studio 2015\Projects\CSharp_Class\MyConsoleApplication\bin\Debug\MyConsoleApplication.pdb
+C:\Users\HP PC\documents\visual studio 2015\Projects\CSharp_Class\MyConsoleApplication\obj\Debug\MyConsoleApplication.exe
+C:\Users\HP PC\documents\visual studio 2015\Projects\CSharp_Class\MyConsoleApplication\obj\Debug\MyConsoleApplication.pdb
+C:\Users\HP PC\documents\visual studio 2015\Projects\CSharp_Class\MyConsoleApplication\obj\Debug\MyConsoleApplication.csprojResolveAssemblyReference.cache
